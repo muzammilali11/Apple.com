@@ -1,5 +1,7 @@
-Apple Website Clone
-Project Overview
+Apple Website Clone :
+
+Project Overview :
+
 The Apple Website Clone is a project aimed at replicating the design and functionality of the official Apple website. This clone is built using HTML, CSS, and JavaScript to provide a visually appealing and interactive user experience. The project is intended for educational purposes, demonstrating the use of web development technologies to create a sophisticated and responsive website.
 
 Features
